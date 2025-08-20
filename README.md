@@ -42,3 +42,4 @@ It was conducted in a **virtual lab setup** using Kali Linux (attacker) and Ubun
 The full detailed report (with screenshots and methodology) is included in this repository.  
 
 **Author:** Faris Ali  
+[SecurityPlus_Lab_Report.pdf](https://github.com/user-attachments/files/21907394/SecurityPlus_Lab_Report.pdf)
